@@ -8,7 +8,7 @@
       <p><b>邮箱：1428255120@qq.com</b></p>
     </td>
     <td width="25%">
-      <img src="/证件照.jpg" width="100%">     
+      <img src="/wt.jpg" width="100%">     
     </td>
   </tr>
 </table>
